@@ -4,7 +4,7 @@
 
 ### 🔧 Web Server Development
 - **Architectures**: Microservices, RESTful APIs, Load-balanced deployments
-- **Technologies**: [List your stack: e.g., Node.js, Python, Nginx, etc.]
+- **Technologies**:  Node.js, Python, Nginx, etc.
 - **Practices**: CI/CD, Docker, Performance optimization, Security hardening
 
 ### 🔍 Search & Data Retrieval
@@ -22,10 +22,7 @@
 [Add links to your best projects here]
 
 ## 📫 How to Reach Me
-- Email: [your-email]
-- LinkedIn: [your-linkedin]
-- Portfolio: [your-portfolio-link]
+- Email: [christinemuthami2017@gmail.com]
+- LinkedIn: [www.linkedin.com/in/christine-muthami-10ba50394]
 
----
 
-⭐ *"First, solve the problem. Then, write the code." – John Johnson*
